@@ -12,5 +12,3 @@ export default function ContactRow({ setSelectedContactId,contact }) {
       </tr>
     );
   }
-
-export default ContactRow;
